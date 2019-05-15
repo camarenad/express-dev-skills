@@ -8,12 +8,12 @@ a {
   color: #00B7FF;
 }
 
-#delete-form {
+.delete-form {
   display: inline-block;
   margin-right: 10px;
 }
 
-#delete-form button {
+.delete-form button {
   color: red;
 }
 
